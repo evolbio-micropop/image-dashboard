@@ -1,4 +1,9 @@
 numpy
+scipy
+jupyter
 matplotlib
 ipywidgets
-nbinteract
+plotly
+pandas
+xarray
+Pillow

@@ -9,12 +9,12 @@ Installation
 ============
 After cloning the repo, do:
 
-  conda install --file requirements.txt
+    conda install --file requirements.txt
   
 to install the required dependencies.
 
 To install image-dashboard into the environment:
 
-  pip install -e .
+    pip install -e .
   
   

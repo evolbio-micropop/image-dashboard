@@ -6,7 +6,7 @@ as image processing and analysis results in a jupyter notebook. These notebooks
 may be served via nbinteract.
 
 Installation
-============
+------------
 The recommended environment for running image-dashboard is anaconda. The following assumes you have anaconda3
 installed and the conda executable is in your $PATH.
 
@@ -30,7 +30,7 @@ In this way, changes to the image-dashboard sources will be reflected in the ins
 That's it.
 
 Usage
-=====
+-----
 
 Active the conda environment:
 
@@ -46,6 +46,6 @@ From the jupyter dashboard, open one of the existing notebooks in notebooks/ or 
     git commit path/to/new/notebook.ipynb
     
 Development
-===========
+-----------
 
 Please consider working in a forked repository and create merge/pull requests.

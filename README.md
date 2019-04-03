@@ -18,7 +18,7 @@ Activate the environment:
 
     conda activate ./env
     
-Install image-dashboards dependecies:
+Install image-dashboards dependencies:
 
     conda install --file requirements.txt
   

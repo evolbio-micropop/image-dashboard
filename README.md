@@ -38,7 +38,7 @@ Active the conda environment:
     
 Start your local jupyter notebook server:
 
-    jupyer notebook
+    jupyter notebook
     
 From the jupyter dashboard, open one of the existing notebooks in notebooks/ or create a new one. If you want the notebook to become part of the repository, don't forget to 
 

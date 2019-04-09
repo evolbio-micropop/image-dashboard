@@ -25,7 +25,7 @@ Install image-dashboards dependencies:
 Finally, install image-dashboard into the newly created environment. If you want to develop image-dashboard, add the -e flag.
 In this way, changes to the image-dashboard sources will be reflected in the installed package:
 
-    pip install [-e] .
+    pip install -e .
   
 That's it.
 

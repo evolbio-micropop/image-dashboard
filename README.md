@@ -49,3 +49,7 @@ Development
 -----------
 
 Please consider working in a forked repository and create merge/pull requests.
+
+Jupyter Widgets
+-----------
+https://ipywidgets.readthedocs.io/en/stable/

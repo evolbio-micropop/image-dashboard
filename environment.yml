@@ -143,5 +143,5 @@ dependencies:
     - numpy==1.16.2
     - toolz==0.9.0
     - traittypes==0.2.1
-prefix: $HOME/.conda/envs/image-dashboard
+      #prefix: $HOME/.conda/envs/image-dashboard
 

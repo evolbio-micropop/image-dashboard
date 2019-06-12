@@ -1,2 +1,10 @@
 tags
 notebooks/.ipynb_checkpoints/
+.eggs/
+image_dashboard.egg-info
+__pycache__/
+*.pyo
+*.pyc
+.*.*.swp
+*.*~
+*.*.bu
